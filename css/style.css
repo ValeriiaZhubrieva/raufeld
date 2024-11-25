@@ -761,7 +761,7 @@ h6 {
   padding-top: 0
 }
 .projects--pb-small .projects__card:not(:last-child) {
-  margin-bottom: 160px
+  margin-bottom: 120px
 }
 .card-project {
   display: grid;
@@ -2134,10 +2134,10 @@ h6 {
     padding-bottom: 100px
   }
   .projects__card:not(:last-child) {
-    margin-bottom: 100px
+    margin-bottom: 80px
   }
   .projects--pb-small .projects__card:not(:last-child) {
-    margin-bottom: 80px
+    margin-bottom: 100px
   }
   .card-project__body {
     gap: 16px
